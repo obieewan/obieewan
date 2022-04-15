@@ -23,7 +23,6 @@ defmodule ListRangePositive do
   defp range(from, to, result) do
     new_to = to - 1
     range(from, new_to, [to | result])
-    |> IO.inspect
   end
 
   def positive(list) do
