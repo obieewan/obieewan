@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### ⚡ Fun fact: I am a self-taught developer. I am always been interested, that is why after I graduated I studied coding.
 
 <!--
 **obieewan/obieewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
