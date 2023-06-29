@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### 🌱 I’m currently learning Elixir and Phoenix.
 #### ⚡ Fun fact: I am a self-taught developer. I am always been interested, that is why after I graduated I studied coding.
 
 <!--
