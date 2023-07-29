@@ -60,4 +60,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-word-mark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <!-- img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp; 
+  -->
 </div>
