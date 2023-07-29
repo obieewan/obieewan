@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 </div>
 
 <div id="subheader" align="center">
-    <h3>
+    <h4>
     🌱 I’m currently learning Elixir and Phoenix/LiveView.<br>
     ⚡ Fun fact: I am a self-taught elixir developer.
-    </h3>
+    </h4>
 </div>
 
 
