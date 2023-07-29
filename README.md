@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
   <div>
 
-<div id="header" align="center">
+<div id="subheader" align="center">
     <h4>
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
     - 🌱 I’m currently learning Elixir and Phoenix/LiveView.<br>
@@ -36,5 +36,9 @@ Here are some ideas to get you started:
      </a>
     </div>
 </div>
+
+<div align="center">
+ <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+ </div>
 
 
