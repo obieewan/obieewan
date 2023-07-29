@@ -51,4 +51,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain-wordmark.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   </div>
