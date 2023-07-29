@@ -1,12 +1,9 @@
-<div id="header" align="center">
-    ### Hi there 👋
-    
-    #### 🌱 I’m currently learning Elixir and Phoenix/LiveView.
-    #### ⚡ Fun fact: I am a self-taught elixir developer.
-    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
-</div>
-
 <!--
+### Hi there 👋
+
+#### 🌱 I’m currently learning Elixir and Phoenix/LiveView.
+#### ⚡ Fun fact: I am a self-taught elixir developer.
+
 **obieewan/obieewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
+</div>
+
+<div id="subheader" align="center">
+    <h3>
+    🌱 I’m currently learning Elixir and Phoenix/LiveView.<br>
+    ⚡ Fun fact: I am a self-taught elixir developer.
+    </h3>
+</div>
+
 
