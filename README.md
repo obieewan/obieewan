@@ -35,9 +35,9 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<div align="center">
+<!-- div align="center">
  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
- </div>
+ </div -->
 
 
 ### :man_technologist: About me:
@@ -51,8 +51,5 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-plain-wordmark.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-plain-wordmark.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-plain.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
 </div>
