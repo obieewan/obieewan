@@ -1,6 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" width="100" />
+</div>
 ### Hi there 👋
 
-#### 🌱 I’m currently learning Elixir and Phoenix.
+#### 🌱 I’m currently learning Elixir and Phoenix/LiveView.
 #### ⚡ Fun fact: I am a self-taught elixir developer.
 
 <!--
@@ -17,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
