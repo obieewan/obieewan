@@ -1,10 +1,9 @@
-### Hi there 👋
-
-#### 🌱 I’m currently learning Elixir and Phoenix/LiveView.
-#### ⚡ Fun fact: I am a self-taught elixir developer.
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
+    ### Hi there 👋
+    
+    #### 🌱 I’m currently learning Elixir and Phoenix/LiveView.
+    #### ⚡ Fun fact: I am a self-taught elixir developer.
+    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
 </div>
 
 <!--
