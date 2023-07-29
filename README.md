@@ -28,6 +28,12 @@ Here are some ideas to get you started:
     🌱 I’m currently learning Elixir and Phoenix/LiveView.<br>
     ⚡ Fun fact: I am a self-taught elixir developer.
     </h4>
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/obie-tizon/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
+</div>
 
