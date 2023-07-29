@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 <div id="subheader" align="center">
     <h4>
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
-    - 🌱 I’m currently learning Elixir and Phoenix/LiveView.<br>
-    - ⚡ Fun fact: I am a self-taught elixir developer.
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h4>
     <div id="badges">
      <a href="https://www.linkedin.com/in/obie-tizon/">
@@ -42,3 +40,10 @@ Here are some ideas to get you started:
  </div>
 
 
+### :man_technologist: &nbsp;About me:
+
+    - 🌱 I’m currently learning Elixir and Phoenix/LiveView.
+    - ⚡ Fun fact: I am a self-taught elixir developer.
+    - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-obie-tizon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obie-tizon)
+
+---
