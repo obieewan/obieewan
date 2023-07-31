@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=obieewan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<a href="https://github.com/obieewan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=obieewan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Obie's github statees" /></a>
+<a href="https://github.com/obieewan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=obieewan&show_icons=true&include_all_commits=true&theme=dark&background=000000&hide_border=true" alt="Obie's github statees" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obieewan&layout=compact&theme=vision-friendly-dark)](https://github.com/obieewan/github-readme-stats)
