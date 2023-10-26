@@ -41,7 +41,7 @@
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=obieewan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=obieewan&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=obieewan&show_icons=true&include_all_commits=true&theme=dark&background=000000)](https://github.com/obieewan/github-readme-stats)
