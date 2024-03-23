@@ -17,7 +17,7 @@
 ### :man_technologist: About me:
 
     - 🌱 I’m currently learning Elixir and Phoenix/LiveView.
-    - ⚡ Fun fact: I am a self-taught elixir developer.
+    - ⚡ Fun fact: I am a self-taught elixir developer and a Manufacturing Engineer
 
 ---
 
