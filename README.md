@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-
+<img src="https://camo.githubusercontent.com/66bb8d17ca2ff5f2d76aba27a6c95ba997e4e7301f479bf11285ed7a7f19bfc1/68747470733a2f2f656c697869722d776166666c652e6769746875622e696f2f776166666c652f6173736574732f6c6f676f2e737667" title="Waffle" alt="Waffle" width="40" height="40"/>&nbsp;
  
 </div>
 
