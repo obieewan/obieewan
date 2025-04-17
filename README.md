@@ -48,7 +48,8 @@
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=obieewan)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=obieewan&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=obieewan&theme=github-dark&mode=weekly&card_width=720&card_height=240)](https://git.io/streak-stats)
